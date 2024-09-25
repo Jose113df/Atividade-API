@@ -1,2 +1,2 @@
-## Atividade 3 
+## Atividade 3
 ### Criar estrutura da API com Context e método GET para projetos
